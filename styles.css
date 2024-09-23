@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body{
+	display:flex;
+	flex-direction:column;
+	width:500px;
+	height:0px;
+}
+.questions
+{
+	background-color:#f8fffe;
+	max-width:600px;
+	height:50px;
+	padding:15px;
+	border-left:8px solid green;
+	margin-top:20px;
+}
